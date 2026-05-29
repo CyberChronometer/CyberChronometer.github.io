@@ -383,7 +383,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Yongsyl\n!sort 04"
         },
         {
             "card_name": "Unsealer of Fates",
@@ -572,7 +572,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Vande\n!sort 02"
         },
         {
             "card_name": "Predestined Maneuver",
@@ -908,7 +908,7 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Orria\n!sort 04"
         },
         {
             "card_name": "Dead Man's Grasp",
@@ -1034,7 +1034,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Kerthi\n!sort 01"
         },
         {
             "card_name": "Eminent Mistforged Arsenal",
@@ -1118,7 +1118,7 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Yongsyl\n!sort 02"
         },
         {
             "card_name": "Thanoori Privateer",
@@ -1895,7 +1895,7 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Orria\n!sort 02"
         },
         {
             "card_name": "Steel-Devil Duelist",
@@ -2021,7 +2021,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Yongsyl\n!sort 03"
         },
         {
             "card_name": "Stormdaunt Swashbuckler",
@@ -2210,7 +2210,7 @@
             "alias": "",
             "position": "104",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Orria\n!sort 01"
         },
         {
             "card_name": "Elemental Legacy",
@@ -2357,7 +2357,7 @@
             "alias": "",
             "position": "111",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Vande\n!sort 03"
         },
         {
             "card_name": "Ancestor's Due",
@@ -2378,7 +2378,7 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Kerthi\n!sort 02"
         },
         {
             "card_name": "Abyssal Tutor",
@@ -2945,7 +2945,7 @@
             "alias": "",
             "position": "139",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Yongsyl\n!sort 00"
         },
         {
             "card_name": "Sunfire Interdictor",
@@ -3155,7 +3155,7 @@
             "alias": "",
             "position": "149",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Orria\n!sort 00"
         },
         {
             "card_name": "Adamant Pattern of Truth",
@@ -3302,7 +3302,7 @@
             "alias": "",
             "position": "156",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Orria\n!sort 03"
         },
         {
             "card_name": "Crimson Pentacle Blades",
@@ -3323,7 +3323,7 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Kerthi\n!sort 03"
         },
         {
             "card_name": "Kerthi, Itinerant Duelist",
@@ -3344,7 +3344,7 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Kerthi\n!sort 00"
         },
         {
             "card_name": "Denouncer of Anathema",
@@ -3491,7 +3491,7 @@
             "alias": "",
             "position": "165",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Kerthi\n!sort 04"
         },
         {
             "card_name": "Silver Faction Navigator",
@@ -4310,7 +4310,7 @@
             "alias": "",
             "position": "204",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Vande\n!sort 01"
         },
         {
             "card_name": "Thanoori Factory-Citadel",
@@ -4625,7 +4625,7 @@
             "alias": "",
             "position": "219",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Yongsyl\n!sort 01"
         },
         {
             "card_name": "Five-Dragon Armor",
@@ -4751,7 +4751,7 @@
             "alias": "",
             "position": "225",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Vande\n!sort 00"
         },
         {
             "card_name": "Gates of Battle",
@@ -4919,7 +4919,7 @@
             "alias": "",
             "position": "233",
             "rotated": false,
-            "notes": ""
+            "notes": "!group Vande\n!sort 04"
         },
         {
             "card_name": "The Wyld Hunt",

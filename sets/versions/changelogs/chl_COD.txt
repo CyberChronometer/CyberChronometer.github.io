@@ -1,4 +1,50 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Weight of Legacy
+
+Altipani Rangers
+
+Death's Pawn
+
+Underworld Promises
+
+Flamewheel Hunter
+
+Gatekeeper of Heaven
+
+Armaments Reclaimed
+
+Seek Time's Threads
+
+Heroes Act, Villains React
+
+Ancestor's Due
+
+Yongsyl, Daughter of Erasyl
+
+Orria, Far from Home
+
+Fool-Crushing Mountain Drop
+
+Crimson Pentacle Blades
+
+Kerthi, Itinerant Duelist
+
+Face Your Demons
+
+Lapidara Stronghold
+
+Erasyl's Tomb
+
+Vande, Dread Guardian
+
+Mark for Endings
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

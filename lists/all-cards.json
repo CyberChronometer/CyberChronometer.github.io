@@ -410,7 +410,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Yongsyl\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -617,7 +617,7 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Vande\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -985,7 +985,7 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Orria\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1123,7 +1123,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Kerthi\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -1215,7 +1215,7 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Yongsyl\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2066,7 +2066,7 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Orria\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2204,7 +2204,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Yongsyl\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2411,7 +2411,7 @@
             "alias": "",
             "position": "104",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Orria\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2572,7 +2572,7 @@
             "alias": "",
             "position": "111",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Vande\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2595,7 +2595,7 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Kerthi\n!sort 02",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3216,7 +3216,7 @@
             "alias": "",
             "position": "139",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Yongsyl\n!sort 00",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3446,7 +3446,7 @@
             "alias": "",
             "position": "149",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Orria\n!sort 00",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3607,7 +3607,7 @@
             "alias": "",
             "position": "156",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Orria\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3630,7 +3630,7 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Kerthi\n!sort 03",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3653,7 +3653,7 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Kerthi\n!sort 00",
             "image_type": "png",
             "v_mana": ""
         },
@@ -3814,7 +3814,7 @@
             "alias": "",
             "position": "165",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Kerthi\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4711,7 +4711,7 @@
             "alias": "",
             "position": "204",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Vande\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5056,7 +5056,7 @@
             "alias": "",
             "position": "219",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Yongsyl\n!sort 01",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5194,7 +5194,7 @@
             "alias": "",
             "position": "225",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Vande\n!sort 00",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5378,7 +5378,7 @@
             "alias": "",
             "position": "233",
             "rotated": false,
-            "notes": "",
+            "notes": "!group Vande\n!sort 04",
             "image_type": "png",
             "v_mana": ""
         },

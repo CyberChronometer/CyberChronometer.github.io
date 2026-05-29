@@ -1,5 +1,219 @@
 ﻿[
     {
+        "card_name": "Kerthi, Itinerant Duelist",
+        "number": 205,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "Underworld Promises",
+        "number": 117,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Ancestor's Due",
+        "number": 84,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "Crimson Pentacle Blades",
+        "number": 87,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "157"
+    },
+    {
+        "card_name": "Face Your Demons",
+        "number": 131,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Orria's Story",
+    {
+        "card_name": "Orria, Far from Home",
+        "number": 65,
+        "shape": "planeswalker",
+        "set": "COD",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "Seek Time's Threads",
+        "number": 70,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "Gatekeeper of Heaven",
+        "number": 16,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "Fool-Crushing Mountain Drop",
+        "number": 96,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "156"
+    },
+    {
+        "card_name": "Death's Pawn",
+        "number": 92,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Vande's Story",
+    {
+        "card_name": "Vande, Dread Guardian",
+        "number": 212,
+        "shape": "planeswalker",
+        "set": "COD",
+        "rotated": false,
+        "position": "225"
+    },
+    {
+        "card_name": "Lapidara Stronghold",
+        "number": 232,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "204"
+    },
+    {
+        "card_name": "Altipani Rangers",
+        "number": 48,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Heroes Act, Villains React",
+        "number": 101,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "Mark for Endings",
+        "number": 144,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "233"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Yongsyl's Story",
+    {
+        "card_name": "Yongsyl, Daughter of Erasyl",
+        "number": 47,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "Erasyl's Tomb",
+        "number": 227,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "Flamewheel Hunter",
+        "number": 135,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Armaments Reclaimed",
+        "number": 3,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Weight of Legacy",
+        "number": 46,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
         "card_name": "Metal-Dragon Style",
         "number": 24,
         "shape": "normal",
@@ -8,12 +222,12 @@
         "position": "249"
     },
     {
-        "card_name": "Orria, Far from Home",
-        "number": 65,
-        "shape": "planeswalker",
+        "card_name": "Anything, Saroja's Blade",
+        "number": 50,
+        "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "149"
+        "position": "148"
     },
     {
         "card_name": "Knight of Ash-Wrought Sorrow",
@@ -24,12 +238,12 @@
         "position": "252"
     },
     {
-        "card_name": "Face Your Demons",
-        "number": 131,
+        "card_name": "Burning Soul Prana",
+        "number": 122,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "165"
+        "position": "162"
     },
     {
         "card_name": "Panoply Collector",
@@ -46,46 +260,6 @@
         "set": "COD",
         "rotated": false,
         "position": "143"
-    },
-    {
-        "card_name": "Anything, Saroja's Blade",
-        "number": 50,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "148"
-    },
-    {
-        "card_name": "Crimson Pentacle Blades",
-        "number": 87,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "157"
-    },
-    {
-        "card_name": "Burning Soul Prana",
-        "number": 122,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "162"
-    },
-    {
-        "card_name": "Horizon-Father Bekarys",
-        "number": 172,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "167"
-    },
-    {
-        "card_name": "Break",
-        "number": 6,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "142"
     },
     {
         "card_name": "Frozen-Tide Sorcerer",
@@ -112,6 +286,46 @@
         "position": "248"
     },
     {
+        "card_name": "Horizon-Father Bekarys",
+        "number": 172,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "Break",
+        "number": 6,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "Mirage Arranger",
+        "number": 62,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "250"
+    },
+    {
+        "card_name": "Labyrinth Courser",
+        "number": 104,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "222"
+    },
+    {
+        "card_name": "Death Ray",
+        "number": 124,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "163"
+    },
+    {
         "card_name": "House Pilla Ascetic",
         "number": 173,
         "shape": "normal",
@@ -128,28 +342,28 @@
         "position": "223"
     },
     {
-        "card_name": "Mirage Arranger",
-        "number": 62,
+        "card_name": "Pillars of Reality",
+        "number": 67,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "250"
+        "position": "224"
     },
     {
-        "card_name": "Fool-Crushing Mountain Drop",
-        "number": 96,
+        "card_name": "The Lion Forsaken",
+        "number": 107,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "156"
+        "position": "154"
     },
     {
-        "card_name": "Death Ray",
-        "number": 124,
+        "card_name": "Denouncer of Anathema",
+        "number": 125,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "163"
+        "position": "159"
     },
     {
         "card_name": "Requisitioner of Journeys",
@@ -168,28 +382,28 @@
         "position": "141"
     },
     {
-        "card_name": "Pillars of Reality",
-        "number": 67,
+        "card_name": "Sorcerer-Savant",
+        "number": 73,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "224"
+        "position": "145"
     },
     {
-        "card_name": "Labyrinth Courser",
-        "number": 104,
+        "card_name": "Nameless Antihero",
+        "number": 108,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "222"
+        "position": "153"
     },
     {
-        "card_name": "Denouncer of Anathema",
-        "number": 125,
+        "card_name": "Mastery of Earth",
+        "number": 145,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "159"
+        "position": "221"
     },
     {
         "card_name": "Shared Reminiscence",
@@ -208,28 +422,28 @@
         "position": "138"
     },
     {
-        "card_name": "Sorcerer-Savant",
-        "number": 73,
+        "card_name": "The Zho Fleet Crushed",
+        "number": 81,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "145"
+        "position": "147"
     },
     {
-        "card_name": "The Lion Forsaken",
-        "number": 107,
+        "card_name": "Veil of Night",
+        "number": 118,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "154"
+        "position": "155"
     },
     {
-        "card_name": "Mastery of Earth",
-        "number": 145,
+        "card_name": "Mukhauta Cicatrice",
+        "number": 146,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "221"
+        "position": "160"
     },
     {
         "card_name": "Silver Faction Navigator",
@@ -248,28 +462,28 @@
         "position": "227"
     },
     {
-        "card_name": "The Zho Fleet Crushed",
-        "number": 81,
+        "card_name": "Daiklaive Duelist",
+        "number": 53,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "147"
+        "position": "99"
     },
     {
-        "card_name": "Nameless Antihero",
-        "number": 108,
+        "card_name": "Abyssal Charm",
+        "number": 82,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "153"
+        "position": "114"
     },
     {
-        "card_name": "Mukhauta Cicatrice",
-        "number": 146,
+        "card_name": "Ruination Poise",
+        "number": 151,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "160"
+        "position": "164"
     },
     {
         "card_name": "Charging Oxdragon",
@@ -288,28 +502,28 @@
         "position": "144"
     },
     {
-        "card_name": "Daiklaive Duelist",
-        "number": 53,
+        "card_name": "First-Age Reclaimer",
+        "number": 54,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "99"
+        "position": "100"
     },
     {
-        "card_name": "Veil of Night",
-        "number": 118,
+        "card_name": "Abyssal Tutor",
+        "number": 83,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "155"
+        "position": "113"
     },
     {
-        "card_name": "Ruination Poise",
-        "number": 151,
+        "card_name": "Schismatic Sunblader",
+        "number": 152,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "164"
+        "position": "161"
     },
     {
         "card_name": "Echo of the Elders",
@@ -328,46 +542,6 @@
         "position": "140"
     },
     {
-        "card_name": "First-Age Reclaimer",
-        "number": 54,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "100"
-    },
-    {
-        "card_name": "Abyssal Charm",
-        "number": 82,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "114"
-    },
-    {
-        "card_name": "Schismatic Sunblader",
-        "number": 152,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "161"
-    },
-    {
-        "card_name": "Enlightened Mentor",
-        "number": 169,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "132"
-    },
-    {
-        "card_name": "Yongsyl, Daughter of Erasyl",
-        "number": 47,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "139"
-    },
-    {
         "card_name": "Fleet Command Authority",
         "number": 55,
         "shape": "normal",
@@ -376,12 +550,12 @@
         "position": "101"
     },
     {
-        "card_name": "Abyssal Tutor",
-        "number": 83,
+        "card_name": "Blood Vortex Hand",
+        "number": 85,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "113"
+        "position": "44"
     },
     {
         "card_name": "Blazing-Bow Shikari",
@@ -392,12 +566,12 @@
         "position": "176"
     },
     {
-        "card_name": "Lessons in Blood",
-        "number": 177,
+        "card_name": "Enlightened Mentor",
+        "number": 169,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "133"
+        "position": "132"
     },
     {
         "card_name": "Altipani Skyknight",
@@ -416,12 +590,12 @@
         "position": "33"
     },
     {
-        "card_name": "Ancestor's Due",
-        "number": 84,
+        "card_name": "Deathknight Scythe",
+        "number": 91,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "112"
+        "position": "116"
     },
     {
         "card_name": "Blood-Ape Bodyguard",
@@ -432,12 +606,12 @@
         "position": "107"
     },
     {
-        "card_name": "Lunar Charm",
-        "number": 178,
+        "card_name": "Lessons in Blood",
+        "number": 177,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "135"
+        "position": "133"
     },
     {
         "card_name": "Ancestral Thaumaturge",
@@ -456,12 +630,12 @@
         "position": "182"
     },
     {
-        "card_name": "Blood Vortex Hand",
-        "number": 85,
+        "card_name": "Decadent Dragonborn",
+        "number": 93,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "44"
+        "position": "120"
     },
     {
         "card_name": "Duelist's Contemplation",
@@ -472,52 +646,12 @@
         "position": "122"
     },
     {
-        "card_name": "Reaver's Daiklaive",
-        "number": 181,
+        "card_name": "Lunar Charm",
+        "number": 178,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "134"
-    },
-    {
-        "card_name": "Armaments Reclaimed",
-        "number": 3,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "95"
-    },
-    {
-        "card_name": "Seek Time's Threads",
-        "number": 70,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "104"
-    },
-    {
-        "card_name": "Deathknight Scythe",
-        "number": 91,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "116"
-    },
-    {
-        "card_name": "Earth-Dragon Style",
-        "number": 129,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "175"
-    },
-    {
-        "card_name": "Silver General's Foresight",
-        "number": 186,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "131"
+        "position": "135"
     },
     {
         "card_name": "As Hammer on Iron",
@@ -536,28 +670,28 @@
         "position": "103"
     },
     {
-        "card_name": "Decadent Dragonborn",
-        "number": 93,
+        "card_name": "Ghost-Namer",
+        "number": 98,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "120"
+        "position": "106"
     },
     {
-        "card_name": "Elemental Legacy",
-        "number": 130,
+        "card_name": "Earth-Dragon Style",
+        "number": 129,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "105"
+        "position": "175"
     },
     {
-        "card_name": "Terrestrial Court",
-        "number": 188,
+        "card_name": "Reaver's Daiklaive",
+        "number": 181,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "127"
+        "position": "134"
     },
     {
         "card_name": "Celestial Legacy",
@@ -576,28 +710,28 @@
         "position": "98"
     },
     {
-        "card_name": "Ghost-Namer",
-        "number": 98,
+        "card_name": "Hungering Henchman",
+        "number": 102,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "106"
+        "position": "180"
     },
     {
-        "card_name": "Flamestaff Innovator",
-        "number": 134,
+        "card_name": "Elemental Legacy",
+        "number": 130,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "119"
+        "position": "105"
     },
     {
-        "card_name": "Wood-Dragon Huntcaller",
-        "number": 191,
+        "card_name": "Silver General's Foresight",
+        "number": 186,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "128"
+        "position": "131"
     },
     {
         "card_name": "Corvus-Style Insurgent",
@@ -616,28 +750,28 @@
         "position": "96"
     },
     {
-        "card_name": "Hungering Henchman",
-        "number": 102,
+        "card_name": "Laughing Wounds Form",
+        "number": 106,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "180"
+        "position": "115"
     },
     {
-        "card_name": "House Munio Paragons",
-        "number": 138,
+        "card_name": "Flamestaff Innovator",
+        "number": 134,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "121"
+        "position": "119"
     },
     {
-        "card_name": "Avenger of Souls",
-        "number": 163,
+        "card_name": "Terrestrial Court",
+        "number": 188,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "77"
+        "position": "127"
     },
     {
         "card_name": "Dawn-Caste Armiger",
@@ -656,46 +790,6 @@
         "position": "97"
     },
     {
-        "card_name": "Laughing Wounds Form",
-        "number": 106,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "115"
-    },
-    {
-        "card_name": "Invoke the Molten Kraken",
-        "number": 140,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "246"
-    },
-    {
-        "card_name": "Colossal Familiar",
-        "number": 165,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "78"
-    },
-    {
-        "card_name": "Gatekeeper of Heaven",
-        "number": 16,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "89"
-    },
-    {
-        "card_name": "Wave-Parting Walk",
-        "number": 79,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "102"
-    },
-    {
         "card_name": "Night-Caste Guerilla",
         "number": 109,
         "shape": "normal",
@@ -704,20 +798,20 @@
         "position": "108"
     },
     {
-        "card_name": "Loyalty's Reward",
-        "number": 143,
+        "card_name": "House Munio Paragons",
+        "number": 138,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "126"
+        "position": "121"
     },
     {
-        "card_name": "Daudaka Warsteed",
-        "number": 166,
+        "card_name": "Wood-Dragon Huntcaller",
+        "number": 191,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "74"
+        "position": "128"
     },
     {
         "card_name": "Heartstone Bracers",
@@ -728,12 +822,12 @@
         "position": "94"
     },
     {
-        "card_name": "Altipani Rangers",
-        "number": 48,
+        "card_name": "Wave-Parting Walk",
+        "number": 79,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "26"
+        "position": "102"
     },
     {
         "card_name": "Shape the Labyrinth",
@@ -744,20 +838,20 @@
         "position": "174"
     },
     {
-        "card_name": "Puissant Salvage Sense",
-        "number": 147,
+        "card_name": "Invoke the Molten Kraken",
+        "number": 140,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "124"
+        "position": "246"
     },
     {
-        "card_name": "Dragonsblood Inheritance",
-        "number": 167,
+        "card_name": "Avenger of Souls",
+        "number": 163,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "84"
+        "position": "77"
     },
     {
         "card_name": "Leyline Architect",
@@ -784,20 +878,20 @@
         "position": "110"
     },
     {
-        "card_name": "Pyretic Prodigy",
-        "number": 148,
+        "card_name": "Loyalty's Reward",
+        "number": 143,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "117"
+        "position": "126"
     },
     {
-        "card_name": "Fate-Shrouded Wanderer",
-        "number": 170,
+        "card_name": "Colossal Familiar",
+        "number": 165,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "76"
+        "position": "78"
     },
     {
         "card_name": "Lord of the First Hunt",
@@ -824,20 +918,20 @@
         "position": "35"
     },
     {
-        "card_name": "Red-Jade Reaver",
-        "number": 150,
+        "card_name": "Puissant Salvage Sense",
+        "number": 147,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "123"
+        "position": "124"
     },
     {
-        "card_name": "Feats of Strength",
-        "number": 171,
+        "card_name": "Daudaka Warsteed",
+        "number": 166,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "83"
+        "position": "74"
     },
     {
         "card_name": "Orichalcum Metallurge",
@@ -864,20 +958,20 @@
         "position": "36"
     },
     {
-        "card_name": "Tempest Goremaul",
-        "number": 158,
+        "card_name": "Pyretic Prodigy",
+        "number": 148,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "68"
+        "position": "117"
     },
     {
-        "card_name": "House Pilla Vanguard",
-        "number": 174,
+        "card_name": "Dragonsblood Inheritance",
+        "number": 167,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "71"
+        "position": "84"
     },
     {
         "card_name": "Rectifier of Celestial Order",
@@ -904,20 +998,20 @@
         "position": "43"
     },
     {
-        "card_name": "Terrestrial Charm",
-        "number": 159,
+        "card_name": "Red-Jade Reaver",
+        "number": 150,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "125"
+        "position": "123"
     },
     {
-        "card_name": "Huntsworn Emissary",
-        "number": 175,
+        "card_name": "Fate-Shrouded Wanderer",
+        "number": 170,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "79"
+        "position": "76"
     },
     {
         "card_name": "Solar Charm",
@@ -944,20 +1038,20 @@
         "position": "50"
     },
     {
-        "card_name": "Twinblade Hunter",
-        "number": 161,
+        "card_name": "Tempest Goremaul",
+        "number": 158,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "118"
+        "position": "68"
     },
     {
-        "card_name": "Keepers of the Three Rivers",
-        "number": 176,
+        "card_name": "Feats of Strength",
+        "number": 171,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "72"
+        "position": "83"
     },
     {
         "card_name": "Steel-Devil Duelist",
@@ -976,28 +1070,28 @@
         "position": "32"
     },
     {
-        "card_name": "Death's Pawn",
-        "number": 92,
+        "card_name": "Eminent Mistforged Arsenal",
+        "number": 94,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "42"
+        "position": "49"
     },
     {
-        "card_name": "Dramatic Deployment",
-        "number": 126,
+        "card_name": "Terrestrial Charm",
+        "number": 159,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "61"
+        "position": "125"
     },
     {
-        "card_name": "Memories of the First Age",
-        "number": 179,
+        "card_name": "House Pilla Vanguard",
+        "number": 174,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "80"
+        "position": "71"
     },
     {
         "card_name": "Steelshatter Adept",
@@ -1016,28 +1110,28 @@
         "position": "19"
     },
     {
-        "card_name": "Eminent Mistforged Arsenal",
-        "number": 94,
+        "card_name": "First-Circle Binding",
+        "number": 95,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "49"
+        "position": "51"
     },
     {
-        "card_name": "Dreaming-Pearl Dancer",
-        "number": 127,
+        "card_name": "Twinblade Hunter",
+        "number": 161,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "60"
+        "position": "118"
     },
     {
-        "card_name": "Reunite the Circle",
-        "number": 183,
+        "card_name": "Huntsworn Emissary",
+        "number": 175,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "81"
+        "position": "79"
     },
     {
         "card_name": "Thunder-Hammer Fist",
@@ -1056,28 +1150,28 @@
         "position": "22"
     },
     {
-        "card_name": "First-Circle Binding",
-        "number": 95,
+        "card_name": "Gather Materiel",
+        "number": 97,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "51"
+        "position": "47"
     },
     {
-        "card_name": "Fire-Dragon Style",
-        "number": 132,
+        "card_name": "Dramatic Deployment",
+        "number": 126,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "65"
+        "position": "61"
     },
     {
-        "card_name": "Sungraced Emissary",
-        "number": 187,
+        "card_name": "Keepers of the Three Rivers",
+        "number": 176,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "70"
+        "position": "72"
     },
     {
         "card_name": "Celestial-Court Envoy",
@@ -1096,28 +1190,28 @@
         "position": "28"
     },
     {
-        "card_name": "Gather Materiel",
-        "number": 97,
+        "card_name": "Haunted Quaestor",
+        "number": 99,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "47"
+        "position": "38"
     },
     {
-        "card_name": "Fireblood Rival",
-        "number": 133,
+        "card_name": "Dreaming-Pearl Dancer",
+        "number": 127,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "69"
+        "position": "60"
     },
     {
-        "card_name": "Unseen Scream's Revelations",
-        "number": 189,
+        "card_name": "Memories of the First Age",
+        "number": 179,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "82"
+        "position": "80"
     },
     {
         "card_name": "Censor of Celestial Crimes",
@@ -1136,28 +1230,28 @@
         "position": "27"
     },
     {
-        "card_name": "Haunted Quaestor",
-        "number": 99,
+        "card_name": "Head-Taker Juggernaut",
+        "number": 100,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "38"
+        "position": "37"
     },
     {
-        "card_name": "Flamewheel Hunter",
-        "number": 135,
+        "card_name": "Fire-Dragon Style",
+        "number": 132,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "52"
+        "position": "65"
     },
     {
-        "card_name": "Witches of Figialta",
-        "number": 190,
+        "card_name": "Reunite the Circle",
+        "number": 183,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "73"
+        "position": "81"
     },
     {
         "card_name": "Cycle-Charting Genius",
@@ -1176,28 +1270,28 @@
         "position": "25"
     },
     {
-        "card_name": "Head-Taker Juggernaut",
-        "number": 100,
+        "card_name": "Lapidara Monumentalist",
+        "number": 105,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "37"
+        "position": "40"
     },
     {
-        "card_name": "Ghostbane Auxiliaries",
-        "number": 136,
+        "card_name": "Fireblood Rival",
+        "number": 133,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "59"
+        "position": "69"
     },
     {
-        "card_name": "Wood-Dragon Outrider",
-        "number": 192,
+        "card_name": "Sungraced Emissary",
+        "number": 187,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "75"
+        "position": "70"
     },
     {
         "card_name": "Eclipsing Arrow",
@@ -1216,23 +1310,28 @@
         "position": "24"
     },
     {
-        "card_name": "Heroes Act, Villains React",
-        "number": 101,
+        "card_name": "Sevenfold Sojourner Stance",
+        "number": 110,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "111"
+        "position": "46"
     },
     {
-        "card_name": "Height Advantage",
-        "number": 137,
+        "card_name": "Ghostbane Auxiliaries",
+        "number": 136,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "67"
+        "position": "59"
     },
     {
-        "card_name": "e"
+        "card_name": "Unseen Scream's Revelations",
+        "number": 189,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "82"
     },
     {
         "card_name": "Edict Etcher",
@@ -1251,23 +1350,28 @@
         "position": "23"
     },
     {
-        "card_name": "Lapidara Monumentalist",
-        "number": 105,
+        "card_name": "Single Point Shining Into the Void",
+        "number": 113,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "40"
+        "position": "45"
     },
     {
-        "card_name": "Immaculate Weaponmaster",
-        "number": 139,
+        "card_name": "Height Advantage",
+        "number": 137,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "55"
+        "position": "67"
     },
     {
-        "card_name": "e"
+        "card_name": "Witches of Figialta",
+        "number": 190,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "73"
     },
     {
         "card_name": "Hero's Journey",
@@ -1286,23 +1390,28 @@
         "position": "21"
     },
     {
-        "card_name": "Sevenfold Sojourner Stance",
-        "number": 110,
+        "card_name": "Stoneshatter Dancer",
+        "number": 115,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "46"
+        "position": "39"
     },
     {
-        "card_name": "Kingdom-Shattering Fist",
-        "number": 141,
+        "card_name": "Immaculate Weaponmaster",
+        "number": 139,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "63"
+        "position": "55"
     },
     {
-        "card_name": "e"
+        "card_name": "Wood-Dragon Outrider",
+        "number": 192,
+        "shape": "normal",
+        "set": "COD",
+        "rotated": false,
+        "position": "75"
     },
     {
         "card_name": "Immaculate Festival",
@@ -1321,20 +1430,20 @@
         "position": "29"
     },
     {
-        "card_name": "Single Point Shining Into the Void",
-        "number": 113,
+        "card_name": "Sunblade Saboteur",
+        "number": 116,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "45"
+        "position": "41"
     },
     {
-        "card_name": "Lapidara Dragonlord",
-        "number": 142,
+        "card_name": "Kingdom-Shattering Fist",
+        "number": 141,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "58"
+        "position": "63"
     },
     {
         "card_name": "e"
@@ -1351,20 +1460,20 @@
         "card_name": "e"
     },
     {
-        "card_name": "Stoneshatter Dancer",
-        "number": 115,
+        "card_name": "Void-Circle Spellreaver",
+        "number": 119,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "39"
+        "position": "109"
     },
     {
-        "card_name": "Mark for Endings",
-        "number": 144,
+        "card_name": "Lapidara Dragonlord",
+        "number": 142,
         "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "233"
+        "position": "58"
     },
     {
         "card_name": "e"
@@ -1381,12 +1490,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sunblade Saboteur",
-        "number": 116,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "41"
+        "card_name": "e"
     },
     {
         "card_name": "Red-Jade Headcarvers",
@@ -1411,12 +1515,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "Underworld Promises",
-        "number": 117,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "48"
+        "card_name": "e"
     },
     {
         "card_name": "Searing-Anima Shikari",
@@ -1441,12 +1540,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "Void-Circle Spellreaver",
-        "number": 119,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "109"
+        "card_name": "e"
     },
     {
         "card_name": "Sledgehammer Fist Style",
@@ -1645,24 +1739,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "Weight of Legacy",
-        "number": 46,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "17"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "card_name": "er"
     },
     {
         "card_name": "er"
@@ -1676,7 +1753,6 @@
     {
         "card_name": "er"
     },
-    "a->gold",
     {
         "card_name": "Heaven-Turning Calculations",
         "number": 203,
@@ -1734,12 +1810,7 @@
         "position": "151"
     },
     {
-        "card_name": "Kerthi, Itinerant Duelist",
-        "number": 205,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "158"
+        "card_name": "e"
     },
     {
         "card_name": "Munio Danaisak",
@@ -1773,12 +1844,12 @@
         "card_name": "er"
     },
     {
-        "card_name": "Vande, Dread Guardian",
-        "number": 212,
-        "shape": "planeswalker",
+        "card_name": "Raven Eyes Tempest",
+        "number": 208,
+        "shape": "normal",
         "set": "COD",
         "rotated": false,
-        "position": "225"
+        "position": "188"
     },
     {
         "card_name": "Master of Five",
@@ -1813,12 +1884,7 @@
         "position": "214"
     },
     {
-        "card_name": "Raven Eyes Tempest",
-        "number": 208,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "188"
+        "card_name": "e"
     },
     {
         "card_name": "Admiral Zho Aarna",
@@ -1864,7 +1930,9 @@
     {
         "card_name": "er"
     },
-    "a->colorless",
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "Warstrider Colossus",
         "number": 225,
@@ -2007,12 +2075,7 @@
         "position": "209"
     },
     {
-        "card_name": "Lapidara Stronghold",
-        "number": 232,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "204"
+        "card_name": "e"
     },
     {
         "card_name": "Mothercrag Lighthouse",
@@ -2101,14 +2164,6 @@
         "card_name": "er"
     },
     {
-        "card_name": "Erasyl's Tomb",
-        "number": 227,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "219"
-    },
-    {
         "card_name": "Gates of Battle",
         "number": 230,
         "shape": "normal",
@@ -2131,59 +2186,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Plains",
-        "number": 239,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "228"
-    },
-    {
-        "card_name": "Island",
-        "number": 240,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "229"
-    },
-    {
-        "card_name": "Swamp",
-        "number": 241,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "230"
-    },
-    {
-        "card_name": "Mountain",
-        "number": 242,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "231"
-    },
-    {
-        "card_name": "Forest",
-        "number": 243,
-        "shape": "normal",
-        "set": "COD",
-        "rotated": false,
-        "position": "232"
+        "card_name": "e"
     },
     {
         "card_name": "er"
