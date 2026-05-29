@@ -2573,243 +2573,243 @@
 	]
 
 [rare(1)]
-	5 Myriad Radiant Prophet
-	5 Yongsyl, Daughter of Erasyl
-	5 Sunfire Interdictor
-	5 Haunted Blademaster
-	5 Break
-	5 Ascendant Battle Visage
-	5 Perfected Daikaive
-	5 Sorcerer-Savant
-	5 Frozen-Tide Sorcerer
-	5 The Zho Fleet Crushed
-	5 Anything, Saroja's Blade
-	5 Orria, Far from Home
-	5 Adamant Pattern of Truth
-	5 Fallen Wolf of the West
-	5 Dead Sun Duelist
-	5 Nameless Antihero
-	5 The Lion Forsaken
-	5 Veil of Night
-	5 Fool-Crushing Mountain Drop
-	5 Crimson Pentacle Blades
-	5 Kerthi, Itinerant Duelist
-	5 Denouncer of Anathema
-	5 Mukhauta Cicatrice
-	5 Schismatic Sunblader
-	5 Burning Soul Prana
-	5 Death Ray
-	5 Ruination Poise
-	5 Face Your Demons
-	5 Silver Faction Navigator
-	5 Horizon-Father Bekarys
-	5 House Pilla Ascetic
-	5 Panoply Collector
-	5 Shared Reminiscence
-	5 Munio Danaisak
-	5 Heaven's Light Unbound
-	5 Heaven-Turning Calculations
-	5 Eternal Puppet Strings
-	5 Cutthroat Politics
-	5 Danaisak's Firestorm
-	5 Arranger of Seasons
-	5 Raven Eyes Tempest
-	5 Admiral Zho Aarna
-	5 Death Rides on Cruel Hooves
-	5 Golden-Antler
-	5 Saroja, Chosen of Journeys
-	5 Geomantic Disruption
-	5 Someone Else's Destiny
-	5 Master of Five
-	5 Unseen Scream of Endings
-	5 Magnaensis, Titan Slayer
-	5 Godmother's Gift
-	5 Erasyl's Tomb
-	5 Mastery of Earth
-	5 Labyrinth Courser
-	5 Garda Flies on Gilded Wings
-	5 Pillars of Reality
-	5 Vande, Dread Guardian
-	5 Gates of Battle
-	5 Orichalcum Juggernaut
-	5 Crimson Grimcleaver
-	5 Metal-Dragon Style
-	5 Mirage Arranger
-	5 Warstrider Colossus
-	5 Knight of Ash-Wrought Sorrow
-	5 Lightning Ballista
-	5 Wartorn Borderland
-	5 Requisitioner of Journeys
+	2 Myriad Radiant Prophet
+	2 Yongsyl, Daughter of Erasyl
+	2 Sunfire Interdictor
+	2 Haunted Blademaster
+	2 Break
+	2 Ascendant Battle Visage
+	2 Perfected Daikaive
+	2 Sorcerer-Savant
+	2 Frozen-Tide Sorcerer
+	2 The Zho Fleet Crushed
+	2 Anything, Saroja's Blade
+	1 Orria, Far from Home
+	2 Adamant Pattern of Truth
+	2 Fallen Wolf of the West
+	2 Dead Sun Duelist
+	2 Nameless Antihero
+	2 The Lion Forsaken
+	2 Veil of Night
+	2 Fool-Crushing Mountain Drop
+	2 Crimson Pentacle Blades
+	2 Kerthi, Itinerant Duelist
+	2 Denouncer of Anathema
+	2 Mukhauta Cicatrice
+	2 Schismatic Sunblader
+	2 Burning Soul Prana
+	2 Death Ray
+	2 Ruination Poise
+	1 Face Your Demons
+	2 Silver Faction Navigator
+	2 Horizon-Father Bekarys
+	2 House Pilla Ascetic
+	1 Panoply Collector
+	2 Shared Reminiscence
+	2 Munio Danaisak
+	2 Heaven's Light Unbound
+	1 Heaven-Turning Calculations
+	1 Eternal Puppet Strings
+	1 Cutthroat Politics
+	1 Danaisak's Firestorm
+	1 Arranger of Seasons
+	2 Raven Eyes Tempest
+	2 Admiral Zho Aarna
+	1 Death Rides on Cruel Hooves
+	2 Golden-Antler
+	2 Saroja, Chosen of Journeys
+	1 Geomantic Disruption
+	1 Someone Else's Destiny
+	1 Master of Five
+	2 Unseen Scream of Endings
+	2 Magnaensis, Titan Slayer
+	2 Godmother's Gift
+	2 Erasyl's Tomb
+	2 Mastery of Earth
+	2 Labyrinth Courser
+	2 Garda Flies on Gilded Wings
+	2 Pillars of Reality
+	1 Vande, Dread Guardian
+	2 Gates of Battle
+	2 Orichalcum Juggernaut
+	2 Crimson Grimcleaver
+	1 Metal-Dragon Style
+	2 Mirage Arranger
+	1 Warstrider Colossus
+	1 Knight of Ash-Wrought Sorrow
+	2 Lightning Ballista
+	2 Wartorn Borderland
+	2 Requisitioner of Journeys
 [uncommon(3)]
-	5 Thunder-Hammer Fist
-	5 Immaculate Influence
-	5 Soulsteel Chirurgeon
-	5 Blood Vortex Hand
-	5 Tempest Goremaul
-	5 Steelshatter Adept
-	5 Rectifier of Celestial Order
-	5 Orichalcum Metallurge
-	5 Gatekeeper of Heaven
-	5 Steel-Devil Duelist
-	5 Ancestral Thaumaturge
-	5 Altipani Skyknight
-	5 Solar Charm
-	5 Heartstone Bracers
-	5 Armaments Reclaimed
-	5 Stormdaunt Swashbuckler
-	5 Thanoori Sharpshooters
-	5 Soulkeeper Privateer
-	5 Daiklaive Duelist
-	5 First-Age Reclaimer
-	5 Fleet Command Authority
-	5 Wave-Parting Walk
-	5 Sidereal Charm
-	5 Seek Time's Threads
-	5 Elemental Legacy
-	5 Ghost-Namer
-	5 Blood-Ape Bodyguard
-	5 Night-Caste Guerilla
-	5 Shaper of Flesh
-	5 Ancestor's Due
-	5 Abyssal Tutor
-	5 Abyssal Charm
-	5 Laughing Wounds Form
-	5 Deathknight Scythe
-	5 Pyretic Prodigy
-	5 Twinblade Hunter
-	5 Flamestaff Innovator
-	5 Decadent Dragonborn
-	5 House Munio Paragons
-	5 Duelist's Contemplation
-	5 Red-Jade Reaver
-	5 Puissant Salvage Sense
-	5 Terrestrial Charm
-	5 Loyalty's Reward
-	5 Terrestrial Court
-	5 Wood-Dragon Huntcaller
-	5 Charging Oxdragon
-	5 Echo of the Elders
-	5 Silver General's Foresight
-	5 Enlightened Mentor
-	5 Lessons in Blood
-	5 Reaver's Daiklaive
-	5 Lunar Charm
-	5 As Hammer on Iron
-	5 Celestial Legacy
-	5 Leyline Architect
-	5 Shape the Labyrinth
-	5 Earth-Dragon Style
-	5 Blazing-Bow Shikari
-	5 Lord of the First Hunt
-	5 Corvus-Style Insurgent
-	5 Hungering Henchman
-	5 Dawn-Caste Armiger
-	5 Oracular Navigator
-	5 Sleeping Sentinel's Idol
-	5 Adjutant's Armor
-	5 Jadeforge Anvil
-	5 Skycutter Boomerang
-	5 Ancient Observer
-	5 Underworld Grotto
-	5 Lapidara Stronghold
-	5 Thanoori Factory-Citadel
-	5 Imperial Garrison
-	5 Worldway Archive
-	5 Azaran Necropolis
-	5 Raatkerian Port
-	5 Figialtan Protectorate
-	5 First-Age Temple
-	5 Mothercrag Lighthouse
-	5 Five-Dragon Armor
-	5 Invoke the Molten Kraken
+	4 Thunder-Hammer Fist
+	4 Immaculate Influence
+	4 Soulsteel Chirurgeon
+	4 Blood Vortex Hand
+	4 Tempest Goremaul
+	4 Steelshatter Adept
+	4 Rectifier of Celestial Order
+	4 Orichalcum Metallurge
+	4 Gatekeeper of Heaven
+	4 Steel-Devil Duelist
+	4 Ancestral Thaumaturge
+	4 Altipani Skyknight
+	4 Solar Charm
+	4 Heartstone Bracers
+	4 Armaments Reclaimed
+	4 Stormdaunt Swashbuckler
+	4 Thanoori Sharpshooters
+	4 Soulkeeper Privateer
+	4 Daiklaive Duelist
+	4 First-Age Reclaimer
+	4 Fleet Command Authority
+	4 Wave-Parting Walk
+	4 Sidereal Charm
+	4 Seek Time's Threads
+	4 Elemental Legacy
+	4 Ghost-Namer
+	4 Blood-Ape Bodyguard
+	4 Night-Caste Guerilla
+	4 Shaper of Flesh
+	4 Ancestor's Due
+	4 Abyssal Tutor
+	4 Abyssal Charm
+	4 Laughing Wounds Form
+	4 Deathknight Scythe
+	4 Pyretic Prodigy
+	4 Twinblade Hunter
+	4 Flamestaff Innovator
+	4 Decadent Dragonborn
+	4 House Munio Paragons
+	4 Duelist's Contemplation
+	4 Red-Jade Reaver
+	4 Puissant Salvage Sense
+	4 Terrestrial Charm
+	4 Loyalty's Reward
+	4 Terrestrial Court
+	4 Wood-Dragon Huntcaller
+	4 Charging Oxdragon
+	4 Echo of the Elders
+	4 Silver General's Foresight
+	4 Enlightened Mentor
+	4 Lessons in Blood
+	4 Reaver's Daiklaive
+	4 Lunar Charm
+	4 As Hammer on Iron
+	4 Celestial Legacy
+	4 Leyline Architect
+	4 Shape the Labyrinth
+	4 Earth-Dragon Style
+	4 Blazing-Bow Shikari
+	4 Lord of the First Hunt
+	4 Corvus-Style Insurgent
+	4 Hungering Henchman
+	4 Dawn-Caste Armiger
+	4 Oracular Navigator
+	4 Sleeping Sentinel's Idol
+	4 Adjutant's Armor
+	4 Jadeforge Anvil
+	4 Skycutter Boomerang
+	4 Ancient Observer
+	4 Underworld Grotto
+	4 Lapidara Stronghold
+	4 Thanoori Factory-Citadel
+	4 Imperial Garrison
+	4 Worldway Archive
+	4 Azaran Necropolis
+	4 Raatkerian Port
+	4 Figialtan Protectorate
+	4 First-Age Temple
+	4 Mothercrag Lighthouse
+	4 Five-Dragon Armor
+	4 Invoke the Molten Kraken
 [common(10)]
-	5 Edict Etcher
-	5 Relic Salvager
-	5 Leaping Steelblood
-	5 Satrap's Dominion
-	5 Cycle-Charting Genius
-	5 Rabbit-Style Infiltrator
-	5 Eclipsing Arrow
-	5 Voice of the Sun
-	5 Censor of Celestial Crimes
-	5 Immaculate Festival
-	5 Celestial-Court Envoy
-	5 Plague-Cleansing Touch
-	5 Oaths Enforced
-	5 Hero's Journey
-	5 Tiger-Claw Style
-	5 Prophetic Victory Confidence
-	5 Weight of Legacy
-	5 Unsealer of Fates
-	5 Manifestation of Winter
-	5 Anathema Seeker
-	5 Water-Dragon Master
-	5 Nameless Nemesis
-	5 Stargraced Confidant
-	5 Skycrystal Reliquarian
-	5 Sapphire Countermagic
-	5 Altipani Rangers
-	5 Predestined Maneuver
-	5 Perfect Evasion
-	5 Word of Dissolution
-	5 Harmonious Academic Method
-	5 Astral Guidance
-	5 Magistrate's Acuity
-	5 Infiltrator's Powerbow
-	5 Council of Masks
-	5 Head-Taker Juggernaut
-	5 Haunted Quaestor
-	5 Stoneshatter Dancer
-	5 Lapidara Monumentalist
-	5 Sunblade Saboteur
-	5 Death's Pawn
-	5 Dead Man's Grasp
-	5 Single Point Shining Into the Void
-	5 Sevenfold Sojourner Stance
-	5 Gather Materiel
-	5 Underworld Promises
-	5 Eminent Mistforged Arsenal
-	5 Death of Obsidian Butterflies
-	5 First-Circle Binding
-	5 Flamewheel Hunter
-	5 Thanoori Privateer
-	5 Sungraced Demagogue
-	5 Immaculate Weaponmaster
-	5 Wavecleaver Corsair
-	5 Auspicious Persona
-	5 Lapidara Dragonlord
-	5 Ghostbane Auxiliaries
-	5 Dreaming-Pearl Dancer
-	5 Dramatic Deployment
-	5 Sworn Siblings
-	5 Kingdom-Shattering Fist
-	5 Sledgehammer Fist Style
-	5 Fire-Dragon Style
-	5 Searing-Anima Shikari
-	5 Height Advantage
-	5 Fireblood Rival
-	5 Sungraced Emissary
-	5 House Pilla Vanguard
-	5 Keepers of the Three Rivers
-	5 Witches of Figialta
-	5 Daudaka Warsteed
-	5 Wood-Dragon Outrider
-	5 Fate-Shrouded Wanderer
-	5 Avenger of Souls
-	5 Colossal Familiar
-	5 Huntsworn Emissary
-	5 Memories of the First Age
-	5 Reunite the Circle
-	5 Unseen Scream's Revelations
-	5 Feats of Strength
-	5 Dragonsblood Inheritance
-	5 Taker of Crowns
-	5 Void-Circle Spellreaver
-	5 Heroes Act, Villains React
-	5 Red-Jade Headcarvers
-	5 Tombguard Automata
-	5 Steelblood Inheritor
-	5 Shining Heartstone
-	5 Imperial Decree
-	5 Summoning the Loyal Steel
-	5 Mark for Endings
+	8 Edict Etcher
+	8 Relic Salvager
+	8 Leaping Steelblood
+	8 Satrap's Dominion
+	8 Cycle-Charting Genius
+	8 Rabbit-Style Infiltrator
+	8 Eclipsing Arrow
+	8 Voice of the Sun
+	8 Censor of Celestial Crimes
+	8 Immaculate Festival
+	8 Celestial-Court Envoy
+	8 Plague-Cleansing Touch
+	8 Oaths Enforced
+	8 Hero's Journey
+	8 Tiger-Claw Style
+	8 Prophetic Victory Confidence
+	8 Weight of Legacy
+	8 Unsealer of Fates
+	8 Manifestation of Winter
+	8 Anathema Seeker
+	8 Water-Dragon Master
+	8 Nameless Nemesis
+	8 Stargraced Confidant
+	8 Skycrystal Reliquarian
+	8 Sapphire Countermagic
+	8 Altipani Rangers
+	8 Predestined Maneuver
+	8 Perfect Evasion
+	8 Word of Dissolution
+	8 Harmonious Academic Method
+	8 Astral Guidance
+	8 Magistrate's Acuity
+	8 Infiltrator's Powerbow
+	8 Council of Masks
+	8 Head-Taker Juggernaut
+	8 Haunted Quaestor
+	8 Stoneshatter Dancer
+	8 Lapidara Monumentalist
+	8 Sunblade Saboteur
+	8 Death's Pawn
+	8 Dead Man's Grasp
+	8 Single Point Shining Into the Void
+	8 Sevenfold Sojourner Stance
+	8 Gather Materiel
+	8 Underworld Promises
+	8 Eminent Mistforged Arsenal
+	8 Death of Obsidian Butterflies
+	8 First-Circle Binding
+	8 Flamewheel Hunter
+	8 Thanoori Privateer
+	8 Sungraced Demagogue
+	8 Immaculate Weaponmaster
+	8 Wavecleaver Corsair
+	8 Auspicious Persona
+	8 Lapidara Dragonlord
+	8 Ghostbane Auxiliaries
+	8 Dreaming-Pearl Dancer
+	8 Dramatic Deployment
+	8 Sworn Siblings
+	8 Kingdom-Shattering Fist
+	8 Sledgehammer Fist Style
+	8 Fire-Dragon Style
+	8 Searing-Anima Shikari
+	8 Height Advantage
+	8 Fireblood Rival
+	8 Sungraced Emissary
+	8 House Pilla Vanguard
+	8 Keepers of the Three Rivers
+	8 Witches of Figialta
+	8 Daudaka Warsteed
+	8 Wood-Dragon Outrider
+	8 Fate-Shrouded Wanderer
+	8 Avenger of Souls
+	8 Colossal Familiar
+	8 Huntsworn Emissary
+	8 Memories of the First Age
+	8 Reunite the Circle
+	8 Unseen Scream's Revelations
+	8 Feats of Strength
+	8 Dragonsblood Inheritance
+	8 Taker of Crowns
+	8 Void-Circle Spellreaver
+	8 Heroes Act, Villains React
+	8 Red-Jade Headcarvers
+	8 Tombguard Automata
+	8 Steelblood Inheritor
+	8 Shining Heartstone
+	8 Imperial Decree
+	8 Summoning the Loyal Steel
+	8 Mark for Endings
