@@ -3323,7 +3323,7 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": "!group Kerthi\n!sort 03"
+            "notes": "!group Kerthi\n!sort 03\n!tag wishlist"
         },
         {
             "card_name": "Kerthi, Itinerant Duelist",
@@ -3869,7 +3869,7 @@
             "alias": "",
             "position": "183",
             "rotated": false,
-            "notes": "!field Petra thinks this doesn't need the CIP trigger; I'm not so sure."
+            "notes": ""
         },
         {
             "card_name": "Eternal Puppet Strings",
@@ -4499,7 +4499,7 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Someone Else's Destiny",
@@ -4625,7 +4625,7 @@
             "alias": "",
             "position": "219",
             "rotated": false,
-            "notes": "!group Yongsyl\n!sort 01"
+            "notes": "!group Yongsyl\n!sort 01\n!tag wishlist"
         },
         {
             "card_name": "Five-Dragon Armor",
@@ -5234,7 +5234,7 @@
             "alias": "",
             "position": "248",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Metal-Dragon Style",
@@ -5381,7 +5381,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Vande, Dread Guardian Emblem",
@@ -5405,5 +5405,5 @@
             "notes": "!exportname Vande, Dread Guardian Emblem"
         }
     ],
-    "version": 2
+    "version": 3
 }

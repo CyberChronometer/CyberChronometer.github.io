@@ -3630,7 +3630,7 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": "!group Kerthi\n!sort 03",
+            "notes": "!group Kerthi\n!sort 03\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4228,7 +4228,7 @@
             "alias": "",
             "position": "183",
             "rotated": false,
-            "notes": "!field Petra thinks this doesn't need the CIP trigger; I'm not so sure.",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -4918,7 +4918,7 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5056,7 +5056,7 @@
             "alias": "",
             "position": "219",
             "rotated": false,
-            "notes": "!group Yongsyl\n!sort 01",
+            "notes": "!group Yongsyl\n!sort 01\n!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5723,7 +5723,7 @@
             "alias": "",
             "position": "248",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
@@ -5884,7 +5884,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": "",
+            "notes": "!tag wishlist",
             "image_type": "png",
             "v_mana": ""
         },
